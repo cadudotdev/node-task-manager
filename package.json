@@ -1,23 +1,22 @@
 {
-  "name": "queue-manager",
+  "name": "task-queue-manager",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsnd --respawn --transpile-only src/main.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cadudotdev/queue-manager.git"
+    "url": "git+https://github.com/cadudotdev/task-queue-manager.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cadudotdev/queue-manager/issues"
+    "url": "https://github.com/cadudotdev/task-queue-manager/issues"
   },
-  "homepage": "https://github.com/cadudotdev/queue-manager#readme",
+  "homepage": "https://github.com/cadudotdev/task-queue-manager#readme",
   "devDependencies": {
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.4.2"
